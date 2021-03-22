@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.map {
+    position: relative;
+    width: 800px;
+    height: 600px;
+    background-color: rgba(135, 179, 168, 0.726);
+}
